@@ -1,4 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome Michael Barnett's GitHub Pages
+
+[My Resume](https://jekyllrb.com/)
+[GitHub Repository](https://jekyllrb.com/)
+[Structural Engineering App](https://jekyllrb.com/)
+[Fantasy Football App](https://jekyllrb.com/)
+
+
+
 
 You can use the [editor on GitHub](https://github.com/michaelbarnett17/michaelbarnett17.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
