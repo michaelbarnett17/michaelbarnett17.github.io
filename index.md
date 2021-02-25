@@ -1,6 +1,6 @@
 ## Welcome Michael Barnett's GitHub Pages
 
 ### [My Resume](https://jekyllrb.com/)
-### [GitHub Repository](https://jekyllrb.com/)
-### [Structural Engineering App](https://jekyllrb.com/)
-### [Fantasy Football App](https://jekyllrb.com/)
+### [GitHub Repository](https://github.com/michaelbarnett17)
+### [Structural Engineering App](https://structural-software.herokuapp.com/)
+### [Fantasy Football App](http://www.fantasyfootball.michaelbarnett17.net/)
