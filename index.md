@@ -1,4 +1,4 @@
-## Welcome Michael Barnett's GitHub Pages
+## Welcome To Michael Barnett's GitHub Pages!
 
 ### [My Resume](https://jekyllrb.com/)
 ### [My GitHub Repository](https://github.com/michaelbarnett17)
